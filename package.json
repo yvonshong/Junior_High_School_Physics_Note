@@ -1,0 +1,25 @@
+{
+  "name": "junior_high_school_physics_note",
+  "version": "1.0.0",
+  "description": "初中物理笔记",
+  "scripts": {
+    "dev": "honkit serve",
+    "build": "honkit build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvonshong/Junior_High_School_Physics_Note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yvonshong/Junior_High_School_Physics_Note/issues"
+  },
+  "homepage": "https://github.com/yvonshong/Junior_High_School_Physics_Note#readme",
+  "devDependencies": {
+    "gitbook-plugin-katex": "^1.1.4",
+    "honkit": "^6.2.0"
+  }
+}

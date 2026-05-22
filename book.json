@@ -1,0 +1,9 @@
+{
+  "title": "初中物理笔记",
+  "description": "整理自初中物理核心知识点与定量实验笔记，包含力学、电磁学、热学、光学及声学等。",
+  "author": "Song",
+  "language": "zh-hans",
+  "plugins": [
+    "katex"
+  ]
+}
