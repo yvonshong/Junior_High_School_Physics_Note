@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/yvonshong/Junior_High_School_Physics_Note#readme",
   "devDependencies": {
-    "gitbook-plugin-katex": "^1.1.4",
-    "honkit": "^6.2.0"
+    "honkit": "^6.2.0",
+    "honkit-plugin-katex": "^1.1.7"
   }
 }
